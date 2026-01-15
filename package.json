@@ -1,0 +1,17 @@
+{
+  "name": "shop-e2e-suite",
+  "version": "1.0.0",
+  "description": "Modern E2E automation using Playwright and TypeScript",
+  "scripts": {
+    "test": "playwright test",
+    "report": "playwright show-report"
+  },
+  "keywords": ["qa", "playwright", "typescript", "automation"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
