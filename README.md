@@ -1,6 +1,6 @@
 # 🛒 Modern E2E Automation Suite
 
-![Playwright Status](https://github.com/YOUR_USERNAME_HERE/shop-e2e-suite/actions/workflows/playwright.yml/badge.svg)
+![Playwright Status](https://github.com/vtmarkop/shop-e2e-suite/actions/workflows/playwright.yml/badge.svg)
 
 ## 📋 Project Overview
 A production-ready automated testing framework built using **Playwright** and **TypeScript**. This project demonstrates the **Page Object Model (POM)** design pattern to ensure scalability, maintainability, and clean code.
